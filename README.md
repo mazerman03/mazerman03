@@ -47,13 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mazerman03/mazerman03/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
 </div>
