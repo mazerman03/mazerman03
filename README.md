@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⚡️⚡️I am a software developer interested in data analysis, mathematics, and AI. <br>🧑‍💼 Working as an Application Engineer Intern @ Steelcase Inc<br>🎒📚3rd year student pursuing a BSc in Computer Science<br>🧑‍🏫Volunteering as a Mathematical Olympiad Coach for my state's organization<br>📺📺Co-founder of MatesIDK, organization focused on scientific divulgation and STEM events</p>
+<p align="left">⚡️⚡️I am a software developer interested in data analysis, mathematics, and AI. <br>🧑‍💼 Working as a Student Research Assistant @ CIMAT & UANL<br>🎒📚3rd year student pursuing a BSc in Computer Science<br>🧑‍🏫Volunteering as a Mathematical Olympiad Coach for my state's organization<br>📺📺Co-founder of MatesIDK, organization focused on scientific divulgation and STEM events</p>
 
 ###
 
